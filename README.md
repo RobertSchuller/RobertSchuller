@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RobertSchuller
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning new stuff.
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me robert.srg02 @gmail.com
 
 <!---
 RobertSchuller/RobertSchuller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
