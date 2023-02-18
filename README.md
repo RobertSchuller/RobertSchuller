@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobertSchuller
 - 👀 I’m interested in learning new stuff.
-- 🌱 I’m currently learning C#, JavaScript, CSS.
+- 🌱 I’m currently learning C#, HTML, CSS, JavaScript.
 - 📫 How to reach me: robert.srg02@gmail.com
 
 <!---
